@@ -1,5 +1,5 @@
 دریافت فایل اکسل و انتقال آن به DataGridView در ویندوز فرم سی شارپ
-
+        ![Snag_5f6fc3](https://github.com/SayyehBan/importExcelToWinform/assets/38620223/2daf85f8-ce29-4c40-be89-d9ad5800b0ea)
 سورس سی شارپ
 
  private void button1_Click(object sender, EventArgs e)
@@ -34,4 +34,4 @@
         }
         
         تصویر برنامه
-        ![Snag_5f6fc3](https://github.com/SayyehBan/importExcelToWinform/assets/38620223/2daf85f8-ce29-4c40-be89-d9ad5800b0ea)
+
